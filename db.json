@@ -1,0 +1,55 @@
+{
+    "perguntas":[
+        {
+            "enunciado": "Quem descobriu o Brasil?",
+            "alternativas": [
+                {
+                    "responsta": "Cristovão Colombo",
+                    "descricao": "errado"
+                },
+                {
+                    "responsta": "Pedro Alvares Cabral",
+                    "descricao": "certo"
+                },
+                {
+                    "responsta": "Alexandre, o grande",
+                    "descricao": "errado"
+                }
+            ]    
+        },
+        {
+            "enunciado": "Quem é o presidente do Brasil?",
+            "alternativas": [
+                {
+                    "responsta": "Dilma Rousseff",
+                    "descricao": "errado"
+                },
+                {
+                    "responsta": "Lula",
+                    "descricao": "errado"
+                },
+                {
+                    "responsta": "Jair Bolssonaro",
+                    "descricao": "certo"
+                }
+            ]    
+        },
+        {
+            "enunciado": "Quem foi o último campeão do mundo de futebol?",
+            "alternativas": [
+                {
+                    "responsta": "França",
+                    "descricao": "certo"
+                },
+                {
+                    "responsta": "Alemanha",
+                    "descricao": "errado"
+                },
+                {
+                    "responsta": "Argentina",
+                    "descricao": "errado"
+                }
+            ]    
+        }
+    ]
+}
